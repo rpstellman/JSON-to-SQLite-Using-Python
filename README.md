@@ -1,6 +1,6 @@
 <h1>Python Capstone Project</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://youtube.com)
 
 <h2>Description</h2>
 Project consists of 
