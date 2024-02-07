@@ -22,8 +22,8 @@ Project consists of pulling data from a JSON file (Yelp Business Data) to a SQLi
 
 <p align="center">
 Raw Yelp Business Data: <br/>
-<img src="https://i.imgur.com/2AnUo4X" height="80%" width="80%" alt="Raw Yelp Business Data"/>
-</p>
+<img src="https://i.imgur.com/2AnUo4X.png" height="80%" width="80%" alt="Raw Yelp Business Data"/>
+<br />
 <br />
 Select the disk:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
