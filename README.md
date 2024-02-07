@@ -29,16 +29,16 @@ Select data items and create SQLite table / file:  <br/>
 <img src="https://i.imgur.com/jVbUHJx.png" height="80%" width="80%" alt="SQLite table creation"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Selecting Data File: <br/>
+<img src="https://i.imgur.com/wtjzMb3.png" height="80%" width="80%" alt="Selecting Data File"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Parsing the JSON data:  <br/>
+<img src="https://i.imgur.com/YysCMec.png" height="80%" width="80%" alt="Parsing the JSON data"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Only Pulling 100 Businesses at a time:  <br/>
+<img src="https://i.imgur.com/cespm0q.png" height="80%" width="80%" alt="100 Business Limit"/>
 <br />
 <br />
 Sanitization complete:  <br/>
