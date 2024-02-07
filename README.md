@@ -23,7 +23,7 @@ Project consists of pulling data from a JSON file (Yelp Business Data) to a SQLi
 <p align="center">
 Raw Yelp Business Data: <br/>
 <img src="https://imgur.com/a/2AnUo4X" height="80%" width="80%" alt="Raw Yelp Business Data"/>
- <blockquote class="imgur-embed-pub" lang="en" data-id="a/2AnUo4X" data-context="false" ><a href="//imgur.com/a/2AnUo4X"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/2AnUo4X" data-context="false" ><a href="//imgur.com/a/2AnUo4X"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <br />
 <br />
 Select the disk:  <br/>
