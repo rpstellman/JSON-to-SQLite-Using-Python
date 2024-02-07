@@ -25,8 +25,8 @@ Raw Yelp Business Data in JSON: <br/>
 <img src="https://i.imgur.com/LwyY6WM.png" height="80%" width="80%" alt="Raw Yelp Business Data"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select data items and create SQLite table / file:  <br/>
+<img src="https://i.imgur.com/jVbUHJx.png" height="80%" width="80%" alt="SQLite table creation"/>
 <br />
 <br />
 Enter the number of passes: <br/>
