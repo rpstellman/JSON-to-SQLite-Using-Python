@@ -1,9 +1,9 @@
-<h1>Python Capstone Project</h1>
+<h1>JSON to SQL using Python</h1>
 
  ### [YouTube Demonstration](https://youtube.com)
 
 <h2>Description</h2>
-Project consists of 
+Project consists of pulling data from a JSON file (Yelp Business Data) to a SQLite database in order to sort and make sense of the data.
 <br />
 
 
@@ -22,7 +22,7 @@ Project consists of
 
 <p align="center">
 Launch the utility: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/2AnUo4X" height="80%" width="80%" alt="Raw Yelp Business Data"/>
 <br />
 <br />
 Select the disk:  <br/>
