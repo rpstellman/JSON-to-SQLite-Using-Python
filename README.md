@@ -41,12 +41,12 @@ Only Pulling 100 Businesses at a time:  <br/>
 <img src="https://i.imgur.com/cespm0q.png" height="80%" width="80%" alt="100 Business Limit"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dumping Data into Database:  <br/>
+<img src="https://i.imgur.com/E1zcbbw.png" height="80%" width="80%" alt="Data Dump"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Observe the database:  <br/>
+<img src="https://i.imgur.com/ZC7hhYl.png" height="80%" width="80%" alt="Business Database"/>
 </p>
 
 <!--
