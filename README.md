@@ -21,8 +21,8 @@ Project consists of pulling data from a JSON file (Yelp Business Data) to a SQLi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="[https://imgur.com/a/2AnUo4X](https://imgur.com/a/2AnUo4X)" height="80%" width="80%" alt="Raw Yelp Business Data"/>
+Raw Yelp Business Data: <br/>
+<img src="https://imgur.com/a/2AnUo4X" height="80%" width="80%" alt="Raw Yelp Business Data"/>
 <br />
 <br />
 Select the disk:  <br/>
