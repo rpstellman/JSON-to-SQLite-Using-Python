@@ -1,7 +1,5 @@
 <h1>JSON to SQL using Python</h1>
 
- ### [YouTube Demonstration](https://youtube.com)
-
 <h2>Description</h2>
 Project consists of pulling data from a JSON file (Yelp Business Data: https://www.yelp.com/dataset) to a SQLite database in order to sort and make sense of the data.
 <br />
